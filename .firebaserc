@@ -1,5 +1,7 @@
 {
   "projects": {
-    "default": "testingpasswordgeneratorappanu"
+    "default": "testingpasswordgeneratorappanu",
+    "password-generator-staging": "stagingpasswordgeneratorappanu",
+    "password-generator-production": "productionpasswordgeneratoranu"
   }
 }
